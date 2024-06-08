@@ -1,10 +1,10 @@
 <?php
 
 return [
-    'name' => 'orizon',
-    'username' => 'root',
+    'name' => '',
+    'username' => '',
     'password' => '',
-    'connection' => 'mysql:host=127.0.0.1',
+    'connection' => '',
     'options' => [
         PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION
     ]
